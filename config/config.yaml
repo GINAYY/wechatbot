@@ -1,0 +1,15 @@
+rss_sources:
+  - url: "https://www.federalreserve.gov/feeds/feeds.htm"
+    name: "美联储官方信息"
+  - url: "https://www.chaincatcher.com/clist.xml"
+    name: "Crypto快讯"
+
+# 腾讯云翻译配置
+tencent_translate:
+  secret_id: "<id>"
+  secret_key: "<key>"
+  region: "ap-beijing"
+
+# 企业微信机器人配置
+wecom_bot:
+  webhook_url: "<webhook_url>"

@@ -1,0 +1,4 @@
+feedparser
+tencentcloud-sdk-python-tmt
+requests
+pyyaml
